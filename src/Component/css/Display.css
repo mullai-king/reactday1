@@ -1,0 +1,29 @@
+body{
+  background: linear-gradient(120deg,#0000FF,rgb(170, 188, 253))
+}
+
+.period{
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.btn{
+  border-radius: 20px;
+  font-weight: 600;
+}
+
+.card{
+  border-radius: 20px;
+}
+
+.membership{
+  color:rgb(176, 176, 176)
+}
+
+.text-hide{
+  color:rgb(176, 176, 176)
+}
+
+.text-unhiden{
+  font-weight: 500;
+}
